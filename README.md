@@ -1,2 +1,2 @@
-# -Speech-and-Audio
+# Speech-and-Audio
 Term Project
